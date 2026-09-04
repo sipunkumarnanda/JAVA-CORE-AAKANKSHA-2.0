@@ -1,3 +1,8 @@
+/* Q8. Write a Java program to declare `studentName` as an instance variable and 
+`collegeName` as a static variable. Create a method that accepts three subject marks 
+as parameters. Calculate the total marks using a local variable and display the student's 
+complete details.
+ */
 
 public class DisplayStudentDetails {
     String studentName;

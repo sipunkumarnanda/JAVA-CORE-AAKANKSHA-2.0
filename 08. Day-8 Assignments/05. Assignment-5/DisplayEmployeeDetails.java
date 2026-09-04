@@ -1,3 +1,7 @@
+/* Q5. Write a Java program to declare `name`, `id`, and `salary` as instance variables 
+inside an `Employee` class. Assign suitable values to the variables using a method and 
+display the employee details. */
+
 public class DisplayEmployeeDetails {
     String name;
     String id;

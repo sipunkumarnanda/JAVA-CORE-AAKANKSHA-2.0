@@ -1,24 +1,29 @@
+/* Q9. Write a Java program to declare `employeeName` and `basicSalary` 
+as instance variables and `companyName` as a static variable. Create a 
+method that accepts the basic salary as a parameter. Calculate `HRA`, `DA`, 
+and `totalSalary` using local variables and display all the salary details.
+*/
 
 public class DisplayEmployeeDetails {
     String employeeName;
     double basicSalary;
     static String companyName;
 
-    public double calculateTotalSalary(double basicSalary){
+    public double calculateTotalSalary(double basicSalary) {
         double hra = 0.20 * basicSalary;
         double da = 0.10 * basicSalary;
         return basicSalary + hra + da;
     }
 
-    public void setEmployeeDetails(String employeeName, String companyName){
+    public void setEmployeeDetails(String employeeName, String companyName) {
         this.employeeName = employeeName;
         DisplayEmployeeDetails.companyName = companyName;
     }
 
-    public void displayEmployeeDetails(double salary){
-        System.out.println("Employee Name : " +this.employeeName);
-        System.out.println("Company Name : " +DisplayEmployeeDetails.companyName);
-        System.out.println("Salary : " +salary);
+    public void displayEmployeeDetails(double salary) {
+        System.out.println("Employee Name : " + this.employeeName);
+        System.out.println("Company Name : " + DisplayEmployeeDetails.companyName);
+        System.out.println("Salary : " + salary);
     }
 
     public static void main(String[] args) {

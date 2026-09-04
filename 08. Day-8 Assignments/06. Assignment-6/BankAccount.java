@@ -1,3 +1,6 @@
+/* Q6. Write a Java program to declare `accountHolder` and `balance` as instance variables 
+and `bankName` as a static variable. Assign suitable values to all the variables and 
+display the complete bank account details. */
 
 public class BankAccount {
     // instance variable

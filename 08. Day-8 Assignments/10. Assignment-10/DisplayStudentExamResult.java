@@ -1,3 +1,7 @@
+/* Q10. Write a Java program to declare `studentName` and `rollNo` as instance variables 
+and `collegeName` as a static variable. Create a method that accepts marks of three subjects 
+as parameters. Calculate the `total` and `percentage` using local variables. Check whether 
+the percentage is **40% or above** and display `PASS`; otherwise, display `FAIL`.  */
 
 public class DisplayStudentExamResult {
     String studentName;

@@ -1,3 +1,7 @@
+/* Q3. Write a Java program to declare two local variables inside a method. 
+Store two numbers in the variables, calculate their sum using another local variable, 
+and display the result. */
+
 public class Sum {
     public static void sum(){
             int a = 10;
