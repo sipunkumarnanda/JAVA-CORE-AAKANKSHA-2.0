@@ -4,7 +4,6 @@
 data types, assign suitable values, and display all the values. 
 */
 
-
 public class DataTypes {
     public static void main(String[] args) {
         int num1 = 1234;
