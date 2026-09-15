@@ -14,5 +14,6 @@ public class CheckDivisibility {
         }else{
             System.out.println(+num+ " is not divisible by both 5 and 10.");
     }
+    sc.close();
     }
 }

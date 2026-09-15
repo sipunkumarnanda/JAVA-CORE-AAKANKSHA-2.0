@@ -8,8 +8,11 @@ public class BreakWhenNegative {
 
         int num = 0;
         while (true) {
-            if(num >= 0){
-                
+            if (num >= 0) {
+                System.out.print("Enter a number : ");
+                num = sc.nextInt();
+            } else {
+                break;
             }
         }
         sc.close();
