@@ -1,3 +1,7 @@
+/*
+5. Search an Element Write a Java program to input 5 integers into an array, then input a number to search. Display whether the number is present or not present in the array.
+*/
+
 import java.util.Scanner;
 
 public class IsNumberPresent {

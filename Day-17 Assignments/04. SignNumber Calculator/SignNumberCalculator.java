@@ -1,3 +1,7 @@
+/*
+4. Positive, Negative or Zero Write a Java program to input 10 integers into an array and count how many numbers are:PositiveNegativeZero
+*/
+
 import java.util.Scanner;
 
 public class SignNumberCalculator {

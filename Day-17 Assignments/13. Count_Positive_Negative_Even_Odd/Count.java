@@ -1,3 +1,8 @@
+/*
+13. Array Element Classification Write a Java program to input 15 integers into an array and classify every 
+number as: Positive EvenPositive OddNegative EvenNegative OddZeroDisplay the count of each category.
+*/
+
 import java.util.Scanner;
 
 public class Count {

@@ -1,3 +1,9 @@
+/*
+19. Student Performance Analyzer Write a Java program to input the name and marks of 5 students.For each student, 
+calculate the grade using conditional statements.Display:Name Marks Percentage/Grade ResultAlso find:Highest scorerLowest scorerClass 
+averageNumber of passed studentsNumber of failed students
+*/
+
 import java.util.Scanner;
 
 public class StudentPerformanceAnalyzer {

@@ -1,3 +1,9 @@
+/*
+9. Grade Calculation Using Array Write a Java program to input marks of 5 subjects into an array.
+ Calculate total and percentage and assign a grade:Percentage Grade ≥ 90 A+ ≥ 80 A≥ 70 B≥ 60 C≥ 50 D≥ 40 E< 40 F 
+ Also check whether the student has passed all subjects.
+*/
+
 import java.util.Scanner;
 
 public class CalculateGrade {

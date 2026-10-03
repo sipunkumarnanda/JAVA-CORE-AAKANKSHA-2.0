@@ -1,3 +1,8 @@
+/*
+6. Student Marks Analysis Write a Java program to input the marks of 10 students into an array.
+ Display:Highest marksLowest marksAverage marksNumber of students who passedNumber of students who failedCondition: Pass if marks ≥ 40.
+*/
+
 import java.util.Scanner;
 
 public class MarkAnalyzer {

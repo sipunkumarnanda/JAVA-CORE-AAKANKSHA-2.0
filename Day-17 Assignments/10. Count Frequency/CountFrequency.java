@@ -1,3 +1,8 @@
+/*
+10. Count Frequency of an Element Write a Java program to input 10 integers into an array and input another number from the user. 
+Find how many times that number occurs in the array.Example:Array: 10 20 10 30 10 40Search: 10Output: 10 occurs 3 times
+*/
+
 import java.util.Scanner;
 
 public class CountFrequency {

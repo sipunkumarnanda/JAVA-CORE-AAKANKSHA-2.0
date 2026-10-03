@@ -1,3 +1,7 @@
+/*
+2. Even or Odd Array Elements Write a Java program to input 5 integers into an array using Scanner and display whether each element is Even or Odd.
+*/
+
 import java.util.Scanner;
 
 public class PrintEvenOdd {

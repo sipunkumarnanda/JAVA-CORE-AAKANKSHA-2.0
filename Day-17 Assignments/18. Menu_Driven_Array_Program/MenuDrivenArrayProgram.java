@@ -1,3 +1,9 @@
+/*
+18. Menu-Driven Array Program Write a Java program using Scanner and switch to create a menu-driven program:1. Display all elements2. 
+Find largest3. Find smallest4. Calculate sum5. Calculate average6. Count even numbers7. Count odd numbers8. Search an element9. 
+ExitInput the array once and allow the user to select operations from the menu.
+*/
+
 import java.util.Scanner;
 
 public class MenuDrivenArrayProgram {

@@ -1,3 +1,8 @@
+/*
+12. Find Largest and Smallest Write a Java program to input 10 integers into an array and find the largest and smallest numbers.
+Also display whether the difference between them is:Greater than 50Between 20 and 50Less than 20
+*/
+
 import java.util.Scanner;
 
 public class FindLargestSmallestAndDifference {

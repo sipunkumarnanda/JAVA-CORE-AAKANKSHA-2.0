@@ -1,3 +1,8 @@
+/*
+14. Search and Position Write a Java program to input 10 integers into an array and search for a number entered by the user.
+If found, display:Whether it existsIts first position/indexNumber of times it occursIf not found, display an appropriate message.
+*/
+
 import java.util.Scanner;
 
 public class SearchAndPosition {

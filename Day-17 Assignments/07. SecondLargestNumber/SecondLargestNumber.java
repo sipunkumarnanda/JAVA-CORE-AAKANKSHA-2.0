@@ -1,4 +1,6 @@
-
+/*
+7. Second Largest Element Write a Java program to input 10 integers into an array and find the second largest element without using Arrays.sort().
+*/
 import java.util.Scanner;
 
 public class SecondLargestNumber {

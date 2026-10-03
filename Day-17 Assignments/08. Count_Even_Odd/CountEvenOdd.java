@@ -1,3 +1,8 @@
+/*
+8. Even and Odd Statistics Write a Java program to input 10 integers into an array and display : All even numbersAll odd 
+numbersCount of even numbersCount of odd numbersSum of even numbersSum of odd numbers
+*/
+
 import java.util.Scanner;
 
 public class CountEvenOdd {

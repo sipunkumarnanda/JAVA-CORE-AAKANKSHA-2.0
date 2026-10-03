@@ -1,3 +1,16 @@
+/*
+20. Array-Based Electricity Bill Calculator Write a Java program to input the electricity units 
+consumed by 10 customers into an array.
+Calculate the bill for each customer using : Units 
+Rate 0–100 ₹2/unit
+101–200 ₹3/unit
+201–300 ₹5/unit
+Above 300 ₹7/unit For every customer, 
+display:Customer No. | Units | Bill | Category
+Also display:Highest billL owest bill 
+Total revenueNumber of customers consuming more than 300 units
+*/
+
 import java.util.Scanner;
 
 public class ArrayBasedElectricityBillCalculator {

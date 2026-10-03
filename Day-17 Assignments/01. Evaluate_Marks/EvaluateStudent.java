@@ -1,3 +1,8 @@
+/*
+1. Student Result Write a Java program to input a student's name, roll number, and marks in three subjects using Scanner. 
+Calculate the total and percentage and display whether the student has Passed or Failed. Condition: Pass if marks in every subject are ≥ 33.
+*/
+
 import java.util.Scanner;
 
 class EvaluateStudent {

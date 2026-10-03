@@ -1,3 +1,9 @@
+/*
+16. Array Result Processing Write a Java program to input the marks of 10 students into an array and display the following:
+Highest marks and student indexLowest marks and student indexAverage marksNumber of students scoring ≥ 75Number of students 
+scoring 60–74Number of students scoring 40–59Number of failed students
+*/
+
 import java.util.Scanner;
 
 public class StudentMarks {

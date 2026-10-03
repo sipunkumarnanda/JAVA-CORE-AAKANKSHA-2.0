@@ -1,3 +1,8 @@
+/*
+11. Separate Positive, Negative and Zero Write a Java program to input 15 integers into an array and separately 
+display:Positive numbersNegative numbersZerosCount of each categorySum of positive numbersSum of negative numbers
+*/
+
 import java.util.Scanner;
 
 public class CountNumbers {

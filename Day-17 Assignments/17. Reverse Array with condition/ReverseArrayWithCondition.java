@@ -1,3 +1,9 @@
+/*
+17. Reverse Array with Conditions Write a Java program to input 10 integers into an array and display the array in reverse order.
+While displaying the reversed array:Replace positive even numbers with "EVEN"Replace positive odd numbers with "ODD"Replace negative numbers 
+with "NEGATIVE"Replace zero with "ZERO"
+*/
+
 import java.util.Scanner;
 
 public class ReverseArrayWithCondition {

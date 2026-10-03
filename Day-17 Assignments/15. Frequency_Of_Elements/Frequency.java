@@ -1,3 +1,8 @@
+/*
+15. Duplicate Elements Write a Java program to input 10 integers into an array and find all the elements that occur more than once.
+Also display the frequency of each duplicate element.
+*/
+
 import java.util.Scanner;
 
 public class Frequency {
